@@ -1,12 +1,12 @@
-## Share local serve
+# Share local serve
 share your local server to develop app in other device
 
-# Installation
+## Installation
 ```bash
 npm i -g https://github.com/Alamabd/share-local-serve.git
 ```
 
-# Doc
+## Doc
 main menu
 ```bash
 sls
